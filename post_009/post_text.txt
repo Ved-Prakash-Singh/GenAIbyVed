@@ -1,0 +1,9 @@
+Word embeddings are an improvement over methods like Bag of Words and TF-IDF, as they map words to vector spaces based on usage, though they still lack context sensitivity. 
+
+
+
+To address this, contextual embeddings were developed with transformer models like BERT and RoBERTa. These models generate different embeddings for the same word based on its context, allowing for more accurate representations. 
+
+
+
+In the previous few posts, we gained a theoretical understanding of these techniques and their overall functioning. In this post, let's explore some code to implement these concepts practically.
